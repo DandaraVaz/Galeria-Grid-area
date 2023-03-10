@@ -133,7 +133,7 @@ background-color: #09090a;
   }
   .grid-template-areas-4 {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(11, 300px);
+    grid-template-rows: 300px 300px 200px 300px 300px 300px 300px 300px 300px 300px 300px;
     grid-template-areas:
     "arte3 arte3"
     "arte10 arte10"
@@ -146,7 +146,7 @@ background-color: #09090a;
     "arte9 arte17"
     "arte4 arte7"
     "arte12 arte14"
-      ;
+    ;
   }
 }
 
